@@ -9,8 +9,8 @@ The number of terms n is to be taken from user through command line. If command 
 ![image](https://github.com/user-attachments/assets/d210c507-9038-4fcd-8141-e6b3cb560a0d)
 # 3 Write a program that prints a table indicating the number of occurrences of each alphabet 
 in the text entered as command line arguments. 
-![image](https://github.com/user-attachments/assets/a02b74f3-0886-438c-9464-c0adc5a06339)
-![image](https://github.com/user-attachments/assets/1e3ea8ba-eaea-44f7-8a3b-fba344893ed6)
+![image](https://github.com/user-attachments/assets/c349bf09-f670-4670-8696-57a8f22cc37d)
+![image](https://github.com/user-attachments/assets/1e0ea7a8-a89f-4146-9336-66f8388b29f6)
 # 4 Write a menu driven program to perform following operations on strings (without using 
 inbuilt string functions): 
 a) Show address of each character in string 
@@ -19,6 +19,13 @@ c) Compare two strings
 d) Calculate length of the string (use pointers) 
 e) Convert all lowercase characters to uppercase 
 f) Reverse the string
+![image](https://github.com/user-attachments/assets/1c214d8f-68d8-408a-b765-f0fd107ee7a5)
+![image](https://github.com/user-attachments/assets/ac53a3ed-56f0-4fa0-9faa-0418e87e5220)
+![image](https://github.com/user-attachments/assets/efbb23b0-a357-41ab-86d5-542d79f9c4c7)
+![image](https://github.com/user-attachments/assets/dd2eb3d8-ed0f-4bb4-a38c-d627f999603d)
+![image](https://github.com/user-attachments/assets/11a1ab77-1dad-4545-9d28-b51ccc579688)
+![image](https://github.com/user-attachments/assets/5e751968-9ab1-4825-8753-791253a39289)
+![image](https://github.com/user-attachments/assets/2e459474-caa3-4b33-89ca-ff793af2470b)
 #  5 Write a program to merge two ordered arrays to get a single ordered array.
 ![image](https://github.com/user-attachments/assets/1d2bcff8-43bc-47ac-bd89-7817da5c9743)
 ![image](https://github.com/user-attachments/assets/26773d1a-6b35-48b3-9270-6f806379fad9)
