@@ -1,20 +1,5 @@
 # C-practicals
-
-
-
-
-
-
-
-
-
-
-
-# 14)  Copy the contents of one text file to another file, after removing all whitespaces.
-![image](https://github.com/user-attachments/assets/cb57c395-413d-4f45-8086-eace6f5c108d)
-![image](https://github.com/user-attachments/assets/271e9379-c7cf-4cb6-aa27-f99bf2403844)
-
-# PRACTICAL 1  1)  Write a program to compute the sum of the first n terms of the following series:
+# PRACTICAL  1)  Write a program to compute the sum of the first n terms of the following series:
 S = 1 - 1 / (2 ^ 2) + 1 / (3 ^ 3) - ... 1 / (n ^ n)
 where ^ is exponentiation.
 The number of terms n is to be taken from user through command line. If command line argument is not found then prompt the user to enter the value of n. OUTPUT
