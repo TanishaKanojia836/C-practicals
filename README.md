@@ -3,7 +3,8 @@
 S = 1 - 1 / (2 ^ 2) + 1 / (3 ^ 3) - ... 1 / (n ^ n)
 where ^ is exponentiation.
 The number of terms n is to be taken from user through command line. If command line argument is not found then prompt the user to enter the value of n.
-![image](https://github.com/user-attachments/assets/e04994a5-0e69-4cc0-817e-b64bc3821b89)
+![image](https://github.com/user-attachments/assets/0e50f7fe-a106-4ea2-bbd9-ee2b9b5ccc08)
+![image](https://github.com/user-attachments/assets/b292462e-8863-4516-884d-7f875b468f21)
 # 2)  Write a program to remove the duplicates from an array.
 ![image](https://github.com/user-attachments/assets/479d6d75-4f86-4b37-918c-162f5bd7a924)
 ![image](https://github.com/user-attachments/assets/d210c507-9038-4fcd-8141-e6b3cb560a0d)
